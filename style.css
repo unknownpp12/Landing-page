@@ -143,7 +143,7 @@ h2{
     padding-bottom: 50px;
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-between ;
 
 }
 .para-2{
@@ -154,11 +154,12 @@ h2{
 .para-3{
     margin-top:0;
 }
-button{
+.button-1{
     background-color: #3882F6;
     color:#E5E7EB;
     border-style: solid;
     border-color:white;
+
 }
 .para-4{
     color:#c4bdbd;
@@ -174,4 +175,5 @@ button{
     display: flex;
     justify-content: flex-end;
     margin-right:50px;
+    margin-top: 0;
 }
