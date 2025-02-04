@@ -142,7 +142,7 @@ h2{
     padding-top:50px;
     padding-bottom: 50px;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between ;
 
 }
@@ -160,25 +160,21 @@ h2{
     border-style: solid;
     border-color:white;
     text-align: center;
+    padding-left:15px;
+    padding-right:15px;
+    margin-right:250px;
+    margin-top:50px;
+    font-weight:500px ;
+}
 
-}
-.para-4{
-    color:#c4bdbd;
-    margin:0;
-}
 .footer{
     background-color: #1F2937;
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 0px;
     padding-top:5px;
-    padding-bottom:5px;
+    padding-bottom:25px;
 }
-.right{
-    display: flex;
-    justify-content: flex-end;
-    margin-right:50px;
-    margin-top: 0;
-}
-.left{
+.para-4{
+    color:#c4bdbd;
     margin:0;
 }
